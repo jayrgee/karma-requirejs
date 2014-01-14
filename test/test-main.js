@@ -12,6 +12,7 @@ requirejs.config({
     paths: {
         'jquery': '../lib/jquery',
         'underscore': '../lib/underscore',
+        'should': '../test/lib/should'
     },
 
     shim: {
